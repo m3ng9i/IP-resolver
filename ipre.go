@@ -1,5 +1,12 @@
 /*
-IP resolver
+IP resolver - A command-line tool for getting a domain's IPs from multiple name servers.
+
+Github:
+    https://github.com/m3ng9i/IP-resolver
+
+Repository:
+    https://github.com/m3ng9i/IP-resolver.git
+    git@github.com:m3ng9i/IP-resolver.git
 */
 package main
 
