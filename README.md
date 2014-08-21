@@ -37,6 +37,9 @@ Type `ipre -h` for more information.
     ipre -l config.json -c
     ipre -s > ~/.ipre && ipre www.example.com
 
+## Download
+
+Click [here](https://github.com/m3ng9i/IP-resolver/releases) to download compiled binaries without compile them yourself.
 
 # 中文说明
 
@@ -65,3 +68,8 @@ IP resolver 依赖 *github.com/miekg/dns* 包, 如果你没有安装此包，请
     ipre www.google.com
 
 使用命令 `ipre -h` 显示帮助信息。
+
+## 下载
+
+点[这里](https://github.com/m3ng9i/IP-resolver/releases)下载已编译好的可执行文件，免去自行编译的麻烦。
+
