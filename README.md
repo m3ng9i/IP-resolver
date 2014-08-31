@@ -53,7 +53,7 @@ IP resolver 依赖 *github.com/miekg/dns* 包, 如果你没有安装此包，请
 
 然后使用下面的命令创建可执行文件：
 
-    go build ipre ipre.go
+    go build ipre.go
     
 在 Mac 和 Linux 下，可执行文件名为 ipre ，在 Windows 下为 ipre.exe。
 
